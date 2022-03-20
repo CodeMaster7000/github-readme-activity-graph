@@ -1,0 +1,1 @@
+<a href="https://github.com/CodeMaster7000/github-readme-activity-graph"><img alt="CodeMaster7000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CodeMaster7000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
